@@ -74,4 +74,6 @@ Meu foco está em projetos de ciência de dados que exploram aprendizado de máq
 ---
 
 ## 🎯 Objetivo Profissional  
-Busco colaborar em projetos que promovam inovação, impacto positivo e desafios no campo da ciência de dados e IA. Estou aberto a oportunidades para crescer e contribuir com equipes dinâmicas e criativas.
+Busco colaborar em projetos que promovam inovação, impacto positivo e desafios no campo da ciência de dados e IA. Estou aberto a oportunidades para crescer e contribuir com equipes dinâmicas e criativas.  
+
+Meu próximo projeto será focado na **predição de câncer de mama utilizando redes neurais**, explorando técnicas avançadas de aprendizado profundo.
