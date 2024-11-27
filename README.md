@@ -62,13 +62,15 @@ Sou analítico, criativo, organizado e apaixonado pelo impacto positivo da intel
 ## 📂 Projetos Recentes  
 
 ### 📊 [Análise Temporal da Bolsa de Valores](https://github.com/Willian-Campos/DataScienceProjects/tree/master/projeto_mercado_financeiro_metaTrader)  
-- Utilização da biblioteca MetaTrader5 para análises financeiras e predições.
+- Utilização da biblioteca **MetaTrader5** para análises financeiras e predições.
 
 ### 🛠️ [Automatização de Processos com Pipelines](https://github.com/Willian-Campos/DataScienceProjects/tree/master/ebac_ciencia-de-dados_projeto-final_streamlit-e-pipeline)  
 - Aplicação de **Pycaret** para automatizar o processamento e análise de dados.  
+- **Streamlit** foi utilizado para a construção de uma interface interativa, veja mais [aqui](https://www.youtube.com/watch?v=6BZduZyJsck).  
+- Uso de **Pipelines** para automatizar o **ETL** dos dados, facilitando a integração e análise.
 
 ### 🧩 [Clusterização de Clientes](https://github.com/Willian-Campos/DataScienceProjects/tree/master/ebac_ciencia-de-dados_projeto03_clustering)  
-- Agrupamento comportamental de clientes de compras online, utilizando técnicas avançadas de clusterização.
+- Agrupamento comportamental de clientes de compras online utilizando **K-Means** com a **métrica de Gower** para análise de distâncias em dados mistos.
 
 📂 Veja mais em [DataScienceProjects](https://github.com/Willian-Campos/DataScienceProjects/tree/master).
 
