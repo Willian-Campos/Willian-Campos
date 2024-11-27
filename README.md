@@ -16,29 +16,30 @@
 ---
 
 ## Sobre Mim  
-**Nome:** Willian Augusto Campos  
-**Ano de nascimento:** 1991  
-**Localização:** São José dos Campos/SP  
+Olá! Sou Willian Augusto Campos, Cientista de Dados, nascido em 1991 e residente em São José dos Campos/SP.
 
-Sou um profissional em transição de carreira, com sólida experiência em **Oracle SQL**, formação em Ciência de Dados pela EBAC, e conhecimento aprofundado em ferramentas e métodos analíticos.  
-Meu foco está em projetos de ciência de dados que exploram aprendizado de máquina supervisionado e não supervisionado, análise temporal e storytelling com dados. Estou expandindo conhecimentos em **Power BI** e planejando estudar **redes neurais** no futuro próximo.
+Iniciei minha carreira trabalhando com Oracle SQL e automatizações em VBA no Excel. Após concluir minha formação em Ciência de Dados pela EBAC, desenvolvi projetos envolvendo aprendizado de máquina, análise estatística e storytelling com dados.
 
-### Características pessoais:
-- Extremamente analítico, criativo e organizado.  
-- Apaixonado pelo crescimento e impacto da IA desde 2019.
+Atualmente, estou expandindo conhecimentos em Power BI e planejando estudar Redes Neurais para desafios futuros.
+
+Sou analítico, criativo, organizado e apaixonado pelo impacto positivo da inteligência artificial desde 2019.
 
 ---
 
+
 ## 🛠️ Ferramentas & Tecnologias  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS S3">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel VBA">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="GIT">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://vvcestudio.com.br/_next/image?url=%2Fassetsv5%2Fimg%2Fcodigo%2Flogosql.png&w=256&q=75" alt="SQL" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://img.odcdn.com.br/wp-content/uploads/2017/02/20170213174437.jpg" alt="Excel" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGGcMLvN_Cddg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1664804778672?e=1738195200&v=beta&t=bcOfYkcgsVSi8KhanQwHtIcxnYXyqxtBt2RraNVICYM" alt="VBA" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <!-- Adicionando os novos ícones -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/256px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="60" height="60" style="margin: 0 40px 40px 0;">
+  <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VSCode" width="60" height="60" style="margin: 0 40px 40px 0;">
 </p>
 
 ## 🧠 Métodos e Técnicas  
